@@ -1,4 +1,4 @@
-# Weather App
+# ✔️ Weather App
 
 This app makes an appointment using an API and brings the weather and date of the chosen city.
 

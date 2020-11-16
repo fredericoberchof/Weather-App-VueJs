@@ -1,6 +1,6 @@
 # ✔️ Weather App
 
-This app makes an appointment using an API and brings the weather and date of the chosen city.
+This App makes a requirement for an API and brings the weather and the date of the chosen city.
 
 # 🚀 Technologies
 
